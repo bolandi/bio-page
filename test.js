@@ -1,2 +1,4 @@
-def x =
-	x*2
+function f(){
+	return true;
+}
+
